@@ -41,6 +41,7 @@
 | Project Name | Description | Tech Stack |  
 |--------------|-------------|------------|  
 | 🎮 [Tic Tac Toe Game](https://github.com/Azeebcoder/TicTacToe) | A fun interactive game | HTML, CSS, JS |  
+| 💱 [Currency Converter](https://sumyycurrency.netlify.app) | Realtime Currency Converter  | React, Api,Css |  
 | 🧮 [Quiz Web App](https://github.com/Azeebcoder/QuizApp) | Interactive quiz platform | React, CSS |  
 | 🧩 [Sudoku Solver](https://github.com/Azeebcoder/SudokuSolver) | Solves Sudoku puzzles | JavaScript |  
 | ➗ [Calculator](https://github.com/Azeebcoder/Calculator) | Simple and responsive calculator | HTML, CSS, JS |  
