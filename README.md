@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=F7631D&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;MERN+Stack+Engineer;Building+Production-Ready+Applications;Warehouse+%26+Logistics+Technology;React+%7C+Node.js+%7C+MongoDB+%7C+Redis;Turning+Business+Problems+Into+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=F7631D&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Engineer;Building+Production-Ready+Applications;Warehouse+%26+Logistics+Technology;React+%7C+Node.js+%7C+MongoDB+%7C+Redis;Turning+Business+Problems+Into+Software" />
 
 <br/><br/>
 
@@ -42,7 +42,7 @@ I'm a **Full-Stack Developer** focused on building production-ready web applicat
 
 My strongest experience is around the **MERN ecosystem**, backend API development, authentication, RBAC, real-time systems and database-driven applications.
 
-I especially enjoy taking a manual or inefficient business process and turning it into a **usable, measurable and scalable software system**.
+I enjoy taking manual or inefficient business processes and turning them into **usable, measurable and scalable software systems**.
 
 <br/>
 
@@ -52,8 +52,8 @@ I especially enjoy taking a manual or inefficient business process and turning i
 | :--------------: | :---------------: | :-------------: | :-----------------: |
 |  React / Next.js | Node.js / Express | MongoDB / Redis | Linux / Nginx / PM2 |
 |   Responsive UI  |     REST APIs     |   Aggregation   |      Deployment     |
-|    Dashboards    |     Socket.IO     | Data Processing |     Performance     |
-| State Management |   Authentication  |     Caching     |      Monitoring     |
+|    Dashboards    |     Socket.IO     |     Caching     |     Performance     |
+| State Management |   Authentication  | Data Processing |      Monitoring     |
 
 </div>
 
@@ -63,13 +63,13 @@ I especially enjoy taking a manual or inefficient business process and turning i
 
 <div align="center">
 
-### Production systems > tutorial projects
+### Building systems that solve actual operational problems.
 
 </div>
 
 <br/>
 
-<!-- PROJECT 1 -->
+<!-- ==================== PROJECT 1 ==================== -->
 
 <table>
 <tr>
@@ -79,7 +79,7 @@ I especially enjoy taking a manual or inefficient business process and turning i
 
 ### Warehouse Operations Platform
 
-A production-oriented platform designed to digitize warehouse operations and replace fragmented/manual operational workflows with a centralized system.
+A production-oriented platform built to digitize warehouse operations and replace fragmented manual workflows with a centralized operational system.
 
 **Core Modules**
 
@@ -96,7 +96,7 @@ A production-oriented platform designed to digitize warehouse operations and rep
 * 🚀 Redis caching
 * 🗄️ MongoDB aggregation
 * 👨‍💼 Employee & attendance workflows
-* 🌙 Shift-based operations
+* 🌙 DAY / NIGHT shift operations
 * 🌐 Production deployment
 
 </td>
@@ -116,13 +116,13 @@ A production-oriented platform designed to digitize warehouse operations and rep
 <br/><br/>
 
 <a href="https://github.com/Azeebcoder/maerskportal">
-<img src="https://img.shields.io/badge/Frontend-Repository-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Frontend%20Repository-111827?style=for-the-badge&logo=github"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Azeebcoder/maerskportalbackend">
-<img src="https://img.shields.io/badge/Backend-Repository-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Backend%20Repository-111827?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -131,10 +131,11 @@ A production-oriented platform designed to digitize warehouse operations and rep
 
 <br/>
 
-<!-- PROJECT 2 -->
+<!-- ==================== PROJECT 2 ==================== -->
 
 <table>
 <tr>
+
 <td width="40%" align="center">
 
 <br/>
@@ -150,7 +151,7 @@ A production-oriented platform designed to digitize warehouse operations and rep
 <br/><br/>
 
 <a href="https://github.com/Azeebcoder/maersk-flipkart-backend">
-<img src="https://img.shields.io/badge/Backend-Repository-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Backend%20Repository-111827?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -161,7 +162,7 @@ A production-oriented platform designed to digitize warehouse operations and rep
 
 ### Logistics & Inbound Operations Platform
 
-A logistics platform focused on vehicle processing and inbound operations.
+A logistics platform focused on vehicle processing and inbound warehouse operations.
 
 **Core Workflows**
 
@@ -180,22 +181,24 @@ A logistics platform focused on vehicle processing and inbound operations.
 * 🔌 REST API architecture
 
 </td>
+
 </tr>
 </table>
 
 <br/>
 
-<!-- PROJECT 3 -->
+<!-- ==================== PROJECT 3 ==================== -->
 
 <table>
 <tr>
+
 <td width="60%">
 
 ## 📊 Warehouse Productivity & IPP
 
 ### Real-Time Productivity Platform
 
-A productivity monitoring system for warehouse operations that tracks employee output, assignments and hourly performance.
+A productivity monitoring system that tracks employee output, assignments and hourly operational performance.
 
 **System Flow**
 
@@ -203,7 +206,7 @@ A productivity monitoring system for warehouse operations that tracks employee o
 
 **Highlights**
 
-* ⏱️ Hourly productivity
+* ⏱️ Hourly productivity tracking
 * 👥 Employee assignments
 * 🎯 Target vs actual
 * 🌙 DAY / NIGHT shifts
@@ -224,19 +227,21 @@ A productivity monitoring system for warehouse operations that tracks employee o
 <br/><br/>
 
 <a href="https://maerskaction.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20PART%20OF%20MAP-F7631D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20PART%20OF%20MAP-F7631D?style=for-the-badge"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
 <br/>
 
-<!-- PROJECT 4 -->
+<!-- ==================== PROJECT 4 ==================== -->
 
 <table>
 <tr>
+
 <td width="40%" align="center">
 
 <br/>
@@ -275,12 +280,13 @@ A permission-driven authorization architecture for controlling access across ent
 * 🎫 Token-based sessions
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🧰 My Stack
+# 🧰 Technology Stack
 
 <div align="center">
 
@@ -304,12 +310,14 @@ A permission-driven authorization architecture for controlling access across ent
 
 ---
 
-# ⚡ What I Work With
+# ⚡ What I Build
 
 <div align="center">
 
 <table>
+
 <tr>
+
 <td align="center" width="25%">
 
 ### 🎨 Frontend
@@ -319,6 +327,7 @@ Next.js
 Tailwind
 Redux
 Responsive UI
+Dashboards
 
 </td>
 
@@ -331,6 +340,7 @@ Express
 REST APIs
 Socket.IO
 Authentication
+RBAC
 
 </td>
 
@@ -343,6 +353,7 @@ Redis
 Aggregation
 Caching
 Data Processing
+Analytics
 
 </td>
 
@@ -354,17 +365,20 @@ Linux
 Nginx
 PM2
 Git
-Production Deployment
+Docker
+Deployment
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# 🧠 Development Philosophy
+# 🧠 Engineering Approach
 
 <div align="center">
 
@@ -373,64 +387,81 @@ Production Deployment
 <br/>
 
 <table>
+
 <tr>
+
 <td align="center">
 
-**01**
+### 01
 
-### Understand
+**Understand**
 
-Understand the actual problem before writing code.
+Understand the actual business problem before writing code.
 
 </td>
 
 <td align="center">
 
-**02**
+### 02
 
-### Design
+**Design**
 
-Build a maintainable architecture.
-
-</td>
-
-<td align="center">
-
-**03**
-
-### Build
-
-Create clean, reusable components and APIs.
+Create an architecture that can evolve with the product.
 
 </td>
 
 <td align="center">
 
-**04**
+### 03
 
-### Improve
+**Build**
 
-Measure, optimize and keep improving.
+Develop reusable components, APIs and services.
 
 </td>
+
+<td align="center">
+
+### 04
+
+**Improve**
+
+Measure performance, fix bottlenecks and continuously improve.
+
+</td>
+
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Activity
+
+<div align="center">
+<br/><br/>
+
+<img
+width="70%"
+src="https://streak-stats.demolab.com?user=Azeebcoder&theme=tokyonight&hide_border=true&border_radius=10"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+# 📊 Contribution Overview
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Azeebcoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azeebcoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Azeebcoder&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azeebcoder&theme=tokyonight"
+width="100%"
+alt="GitHub Contribution Overview"
+/>
 
 </div>
 
@@ -440,21 +471,11 @@ Measure, optimize and keep improving.
 
 <div align="center">
 
-### Every commit is part of the journey.
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Azeebcoder/Azeebcoder/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azeebcoder&bg_color=0f172a&color=ffffff&line=f7631d&point=ffffff&area_color=1e293b&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="GitHub Contribution Snake"
+/>
 
 </div>
 
@@ -462,44 +483,43 @@ Measure, optimize and keep improving.
 
 # 🎯 Currently Building
 
-<details>
-<summary><b>🚀 Production Engineering</b></summary>
+<div align="center">
 
-<br/>
+<table>
 
-I'm currently focused on building and improving systems around:
+<tr>
 
-* Production-grade logistics applications
-* Warehouse process automation
-* Backend architecture
-* Authentication & RBAC
-* Real-time applications
-* Database optimization
-* Redis caching
-* REST API architecture
-* Operational dashboards
-* System design
+<td width="50%" align="center">
 
-</details>
+### 🚀 Production Engineering
 
-<details>
-<summary><b>🧠 Learning & Exploring</b></summary>
+Production-grade logistics applications
+Warehouse process automation
+Backend architecture
+Authentication & RBAC
+Real-time applications
+Operational dashboards
 
-<br/>
+</td>
 
-`System Design`
+<td width="50%" align="center">
 
-`Distributed Systems`
+### 🧠 Learning & Exploring
 
-`Scalable Backend Architecture`
+System Design
+Distributed Systems
+Scalable Backend Architecture
+Cloud Infrastructure
+Performance Optimization
+Advanced React Architecture
 
-`Cloud Infrastructure`
+</td>
 
-`Performance Optimization`
+</tr>
 
-`Advanced React Architecture`
+</table>
 
-</details>
+</div>
 
 ---
 
@@ -511,8 +531,8 @@ I'm currently focused on building and improving systems around:
 | :-------------------------- | :---------------------------------- | :---------------------------------------------------: |
 | 🏠 **Real Estate Platform** | Real estate information platform    |         [Live](https://baghpatrealestate.com/)        |
 | 🎬 **Movie Suggestions**    | Mood-based movie recommendation app |          [Live](https://sumovie.netlify.app/)         |
-| 💱 **Currency Converter**   | Real-time currency conversion       |       [Live](https://sumyycurrency.netlify.app/)      |
-| 🧩 **Sudoku Solver**        | Interactive Sudoku solver           |        [Live](https://sumyysudoku.netlify.app/)       |
+| 💱 **Currency Converter**   | Currency conversion application     |       [Live](https://sumyycurrency.netlify.app/)      |
+| 🧩 **Sudoku Solver**        | Interactive Sudoku application      |        [Live](https://sumyysudoku.netlify.app/)       |
 | 🧮 **Quiz Web App**         | Interactive quiz application        |     [Live](https://sumit-quiz-simple.netlify.app/)    |
 | 🎮 **Tic Tac Toe**          | Browser-based game                  |   [Live](https://azeebcoder.github.io/Tic-Tac-Toe/)   |
 | ➗ **Calculator**            | Responsive calculator               |  [Live](https://sumit-simple-calculator.netlify.app/) |
@@ -530,9 +550,13 @@ I'm currently focused on building and improving systems around:
 <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+ 
+
 <a href="mailto:sumitbhardwajnew@gmail.com">
-<img src="https://img.shields.io/badge/Email-sumitbhardwajnew%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+ 
 
 <a href="https://github.com/Azeebcoder">
 <img src="https://img.shields.io/badge/GitHub-Azeebcoder-111827?style=for-the-badge&logo=github&logoColor=white"/>
@@ -544,14 +568,17 @@ I'm currently focused on building and improving systems around:
 
 <div align="center">
 
-### 💬 Build something useful.
+### `Build something useful.`
 
-### 🚀 Ship it.
+### `Ship it.`
 
-### 🔥 Improve it.
+### `Improve it.`
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7631d,50:1e293b,100:020617&height=140&section=footer&animation=fadeIn"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:f7631d,50:1e293b,100:020617&height=140&section=footer&animation=fadeIn"
+width="100%"
+/>
 
 </div>
