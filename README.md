@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/GitHub-Azeebcoder-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sumit-bhardwaj-new">
+<a href="https://www.linkedin.com/in/summyy/">
 <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -634,7 +634,7 @@ Real-estate platform focused on property discovery, listings and responsive pres
 <img src="https://img.shields.io/badge/GitHub-Azeebcoder-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sumit-bhardwaj-new">
+<a href="https://www.linkedin.com/in/summyy/">
 <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
