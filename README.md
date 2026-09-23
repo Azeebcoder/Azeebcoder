@@ -1,453 +1,732 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:111827,75:1e293b,100:f7631d&text=SUMIT%20BHARDWAJ&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=62&descSize=20&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=SUMIT%20BHARDWAJ&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=61&descSize=18&animation=twinkling&color=0:050816,35:111827,65:312E81,100:06B6D4" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=F7631D&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Engineer;Building+Production-Ready+Applications;Warehouse+%26+Logistics+Technology;React+%7C+Node.js+%7C+MongoDB+%7C+Redis;Turning+Business+Problems+Into+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=650&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Engineer;Software+Engineer;Building+Production-Ready+Applications;Enterprise+%26+Logistics+Technology;React+%7C+Node.js+%7C+MongoDB+%7C+Redis;Turning+Business+Problems+Into+Software" />
 
 <br/><br/>
 
 <a href="https://github.com/Azeebcoder">
 <img src="https://img.shields.io/badge/GitHub-Azeebcoder-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/sumit-bhardwaj-new">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:sumitbhardwajnew@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-Contact-0E7490?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Azeebcoder&style=flat-square&color=f7631d&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Azeebcoder&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
----
-
-## 👋 Hello, I'm Sumit
-
 <div align="center">
 
-### I build software that solves real-world problems.
-
-</div>
-
-I'm a **Full-Stack Developer** focused on building production-ready web applications, internal business platforms, dashboards and operational systems.
-
-My strongest experience is around the **MERN ecosystem**, backend API development, authentication, RBAC, real-time systems and database-driven applications.
-
-I enjoy taking manual or inefficient business processes and turning them into **usable, measurable and scalable software systems**.
+## `BUILDING SOFTWARE THAT SOLVES REAL PROBLEMS.`
 
 <br/>
 
-<div align="center">
-
-|  💻 Development  |     ⚡ Backend     |     🗄️ Data    |    🚀 Production    |
-| :--------------: | :---------------: | :-------------: | :-----------------: |
-|  React / Next.js | Node.js / Express | MongoDB / Redis | Linux / Nginx / PM2 |
-|   Responsive UI  |     REST APIs     |   Aggregation   |      Deployment     |
-|    Dashboards    |     Socket.IO     |     Caching     |     Performance     |
-| State Management |   Authentication  | Data Processing |      Monitoring     |
+<img src="https://img.shields.io/badge/C-050816?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/C++-050816?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/MongoDB-050816?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Redis-050816?style=for-the-badge&logo=redis&logoColor=DC382D"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Work
+# 👋 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284094-dc8e6c1c-3f4f-4c3c-b7f0-9f5c1d6f5b4b.gif"/>
+
+I'm **Sumit Bhardwaj**, a Full-Stack Developer focused on building **production-ready applications, enterprise dashboards, internal platforms and real-world business systems**.
+
+I primarily work with the **MERN ecosystem**, while also working with Redis, Socket.IO, Linux, Nginx, PM2 and production deployment.
+
+My programming foundation includes **C, C++, JavaScript and TypeScript**, while my full-stack development work focuses on building complete applications from frontend interfaces to backend APIs, databases and deployment.
+
+I enjoy taking a manual or inefficient business process and turning it into a system that is:
+
+* ⚡ Faster
+* 📊 Measurable
+* 🔐 Secure
+* 🧩 Maintainable
+* 📈 Scalable
+
+My strongest interest lies at the intersection of:
+
+**Software Engineering + Business Problems + Real-World Operations**
+
+<br clear="right"/>
+
+---
+
+# 🧠 Technical Skills
 
 <div align="center">
 
-### Building systems that solve actual operational problems.
+## 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css" />
+
+<br/><br/>
+
+`C` • `C++` • `JavaScript` • `TypeScript`
+
+`HTML5` • `CSS3`
 
 </div>
 
+---
+
+## ⚛️ Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,html,css" />
+
+<br/><br/>
+
+`React.js` • `Next.js` • `Vite`
+
+`Tailwind CSS` • `Redux`
+
+`Responsive Design` • `Component Architecture`
+
+`State Management` • `API Integration`
+
+`Interactive Dashboards` • `Enterprise UI`
+
+`Framer Motion` • `Recharts` • `Lucide Icons`
+
+</div>
+
+---
+
+## ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/><br/>
+
+`Node.js` • `Express.js`
+
+`REST APIs` • `API Architecture`
+
+`Middleware` • `Authentication`
+
+`Authorization` • `RBAC`
+
+`Business Logic` • `Data Validation`
+
+`File Processing` • `Server Architecture`
+
+</div>
+
+---
+
+## 🗄️ Databases & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,redis" />
+
+<br/><br/>
+
+`MongoDB` • `Mongoose` • `Redis`
+
+`CRUD Operations`
+
+`MongoDB Aggregation`
+
+`Data Modeling`
+
+`Database Queries`
+
+`Indexing`
+
+`Caching`
+
+`Data Processing`
+
+`Data Validation`
+
+`Query Optimization`
+
+</div>
+
+---
+
+## ⚡ Real-Time Systems
+
+<div align="center">
+
+`Socket.IO` • `WebSockets` • `Real-Time Communication`
+
+`Live Dashboards` • `Real-Time Notifications`
+
+`Operational Updates` • `Productivity Tracking`
+
+`Redis Caching` • `Event-Driven Workflows`
+
+</div>
+
+---
+
+# 🔐 Security & Application Architecture
+
+<div align="center">
+
+### `USER → AUTHENTICATION → ROLE → DEPARTMENT → PERMISSION → RESOURCE`
+
+</div>
+
+### 🔑 Authentication
+
+* Token-based authentication
+* Protected APIs
+* Secure sessions
+* Login systems
+* User registration
+
+### 🛡️ Authorization
+
+* Role-Based Access Control
+* Permission-Based Access
+* Department-Level Authorization
+* Protected Frontend Routes
+* Protected Backend APIs
+
+### 👥 User Management
+
+* User creation
+* Role assignment
+* Permission management
+* Department access
+* Administrative controls
+
+---
+
+# 🚀 DevOps & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github" />
+
+<br/><br/>
+
+`Linux` • `Nginx` • `PM2` • `Docker`
+
+`Git` • `GitHub`
+
+`Production Deployment`
+
+`Reverse Proxy`
+
+`Process Management`
+
+`Server Configuration`
+
+`Domain Configuration`
+
+`SSL / HTTPS`
+
+</div>
+
+---
+
+# 🛠️ Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,git,github" />
+
+<br/><br/>
+
+`VS Code` • `Postman` • `Git` • `GitHub`
+
+`Axios` • `Mongoose` • `Day.js`
+
+`Cloudinary` • `Socket.IO`
+
+`Framer Motion` • `Recharts`
+
+`Lucide Icons`
+
+</div>
+
+---
+
+# 🧩 Core Engineering Knowledge
+
+<div align="center">
+
+| 🏗️ Software Engineering | 🗃️ Data Engineering |    🌐 Web Engineering   |
+| :----------------------: | :------------------: | :---------------------: |
+|    Clean Architecture    |     Data Modeling    |        REST APIs        |
+|    Reusable Components   |  MongoDB Aggregation |      Authentication     |
+|    Modular Development   |   Database Queries   |           RBAC          |
+|        API Design        |       Indexing       | Real-Time Communication |
+|      Error Handling      |     Redis Caching    |     State Management    |
+|         Debugging        |    Data Processing   |    Responsive Design    |
+
 <br/>
 
-<!-- ==================== PROJECT 1 ==================== -->
+| 🚀 Production |   📊 Business Systems  | 🧠 Problem Solving |
+| :-----------: | :--------------------: | :----------------: |
+| Linux Servers | Operational Dashboards |   Data Structures  |
+|     Nginx     |  Productivity Systems  |     Algorithms     |
+|      PM2      |      KPI Tracking      |  Logical Thinking  |
+|     Docker    |    Inventory Systems   |      Debugging     |
+|   Deployment  |    Warehouse Systems   |  Problem Analysis  |
+|  Performance  |    Logistics Systems   |    Optimization    |
 
-<table>
-<tr>
-<td width="60%">
+</div>
 
-## 📦 Maersk Action Portal
+---
 
-### Warehouse Operations Platform
+# 🏢 Enterprise & Production Systems
 
-A production-oriented platform built to digitize warehouse operations and replace fragmented manual workflows with a centralized operational system.
+<div align="center">
 
-**Core Modules**
+### Building software around real-world operational workflows
 
-`Inbound` `Transformation` `Inventory` `Cross Dock` `Outbound` `5S` `HR` `Hourly IPP`
+</div>
 
-**Highlights**
+---
 
-* 🔐 Authentication & RBAC
-* 👥 User & permission management
-* 📊 Operational dashboards
-* 📈 Productivity & IPP tracking
-* 📁 Excel data processing
-* ⚡ Real-time Socket.IO updates
-* 🚀 Redis caching
-* 🗄️ MongoDB aggregation
-* 👨‍💼 Employee & attendance workflows
-* 🌙 DAY / NIGHT shift operations
-* 🌐 Production deployment
+# 🚢 Maersk Action Portal
 
-</td>
+<div align="center">
 
-<td width="40%" align="center">
-
-<br/>
+## Warehouse Operations Management Platform
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redis" />
 
 <br/><br/>
 
 <a href="https://maerskaction.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20APPLICATION-F7631D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20LIVE%20APPLICATION-06B6D4?style=for-the-badge"/>
 </a>
-
-<br/><br/>
 
 <a href="https://github.com/Azeebcoder/maerskportal">
-<img src="https://img.shields.io/badge/Frontend%20Repository-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/💻%20FRONTEND-111827?style=for-the-badge&logo=github"/>
 </a>
-
-<br/><br/>
 
 <a href="https://github.com/Azeebcoder/maerskportalbackend">
-<img src="https://img.shields.io/badge/Backend%20Repository-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/⚙️%20BACKEND-111827?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- ==================== PROJECT 2 ==================== -->
+A production-oriented warehouse platform designed to digitize operational workflows and replace fragmented manual processes with a centralized digital system.
 
-<table>
-<tr>
+### 📦 Core Modules
 
-<td width="40%" align="center">
+`Inbound`
 
-<br/>
+`Transformation`
+
+`Inventory`
+
+`Cross Dock`
+
+`Outbound`
+
+`5S`
+
+`HR`
+
+`Hourly IPP`
+
+### ⚙️ Architecture
+
+```text
+                    MAERSK ACTION PORTAL
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │    LOGIN    │
+                     └──────┬──────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │  AUTH + RBAC  │
+                    └───────┬───────┘
+                            │
+              ┌─────────────┼─────────────┐
+              ▼             ▼             ▼
+           INBOUND     TRANSFORMATION   INVENTORY
+              │             │             │
+              └─────────────┼─────────────┘
+                            ▼
+                       MONGODB
+                            │
+                 ┌──────────┴──────────┐
+                 ▼                     ▼
+               REDIS                SOCKET.IO
+                 │                     │
+                 └──────────┬──────────┘
+                            ▼
+                    LIVE DASHBOARDS
+```
+
+### 🔥 Highlights
+
+* 🔐 Authentication & RBAC
+* 👥 User management
+* 🛡️ Permission management
+* 🏢 Department-based access
+* 📊 Operational dashboards
+* 📈 Productivity & IPP tracking
+* 📁 Excel data processing
+* ⚡ Real-time Socket.IO updates
+* 🚀 Redis caching
+* 🗄️ MongoDB aggregation
+* 👨‍💼 Employee workflows
+* 🌙 DAY / NIGHT shift operations
+* 🌐 Production deployment
+
+---
+
+# 🚛 Maersk × Flipkart
+
+<div align="center">
+
+## Logistics & Inbound Operations Platform
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
 <br/><br/>
 
 <a href="https://maerskart.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20APPLICATION-F7631D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20LIVE%20APPLICATION-7C3AED?style=for-the-badge"/>
 </a>
-
-<br/><br/>
 
 <a href="https://github.com/Azeebcoder/maersk-flipkart-backend">
-<img src="https://img.shields.io/badge/Backend%20Repository-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/⚙️%20BACKEND-111827?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
+</div>
 
-<td width="60%">
-
-## 🚛 Maersk × Flipkart
-
-### Logistics & Inbound Operations Platform
+<br/>
 
 A logistics platform focused on vehicle processing and inbound warehouse operations.
 
-**Core Workflows**
+### 🔄 Operational Flow
 
-`Vehicles` `Purchase Orders` `Invoices` `IRN` `GRN` `KPIs`
+```text
+VEHICLE
+   ↓
+PURCHASE ORDERS
+   ↓
+INVOICES
+   ↓
+IRN
+   ↓
+GRN
+   ↓
+QUANTITY RECONCILIATION
+   ↓
+OPERATIONAL KPIs
+```
 
-**Highlights**
+### Features
 
 * 🚚 Vehicle lifecycle tracking
-* 📋 Multiple POs per vehicle
+* 📋 Multiple purchase orders per vehicle
 * 🧾 Invoice management
 * 🔖 IRN tracking
 * 📦 GRN quantity tracking
 * 📊 Operational KPIs
-* 🔍 Search & filtering
+* 🔍 Search and filtering
 * 📱 Responsive enterprise interface
 * 🔌 REST API architecture
 
-</td>
+---
 
-</tr>
-</table>
+# 📊 Warehouse Productivity & IPP
 
-<br/>
+<div align="center">
 
-<!-- ==================== PROJECT 3 ==================== -->
+## Real-Time Productivity Monitoring Platform
 
-<table>
-<tr>
+</div>
 
-<td width="60%">
+A productivity monitoring system designed around employee assignments, hourly output and target-vs-actual operational performance.
 
-## 📊 Warehouse Productivity & IPP
+```text
+EMPLOYEE
+    ↓
+ASSIGNMENT
+    ↓
+PRODUCTIVITY
+    ↓
+TARGET vs ACTUAL
+    ↓
+ANALYTICS
+    ↓
+OPERATIONAL DASHBOARD
+```
 
-### Real-Time Productivity Platform
+### Technology
 
-A productivity monitoring system that tracks employee output, assignments and hourly operational performance.
+`React` • `Node.js` • `MongoDB` • `Redis` • `Socket.IO`
 
-**System Flow**
+### Capabilities
 
-`Employee → Assignment → Productivity → Target vs Actual → Dashboard`
-
-**Highlights**
-
-* ⏱️ Hourly productivity tracking
+* ⏱️ Hourly productivity
 * 👥 Employee assignments
 * 🎯 Target vs actual
 * 🌙 DAY / NIGHT shifts
 * 📈 Productivity analytics
-* ⚡ Socket.IO updates
+* ⚡ Real-time updates
 * 🚀 Redis integration
 * 🗄️ MongoDB aggregation
 * 📊 Interactive dashboards
 
-</td>
+---
 
-<td width="40%" align="center">
+# 🛒 Full-Stack & Product Projects
 
-<br/>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,redis" />
+### Building applications beyond enterprise systems
+
+</div>
+
+---
+
+# 🎬 Movie Watching Website
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎬%20MOVIE%20PLATFORM-312E81?style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="https://maerskaction.netlify.app">
-<img src="https://img.shields.io/badge/🚀%20PART%20OF%20MAP-F7631D?style=for-the-badge"/>
+<a href="https://sumovie.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20OPEN%20PROJECT-06B6D4?style=for-the-badge"/>
 </a>
 
-</td>
+</div>
 
-</tr>
-</table>
+A movie-focused web application built around entertainment discovery and a modern browsing experience.
 
-<br/>
+### Focus Areas
 
-<!-- ==================== PROJECT 4 ==================== -->
+`Movie Discovery`
 
-<table>
-<tr>
+`Search`
 
-<td width="40%" align="center">
+`Categories`
 
-<br/>
+`Responsive UI`
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+`Entertainment UX`
 
-<br/><br/>
+`API Integration`
 
-<a href="https://github.com/Azeebcoder/maerskportal">
-<img src="https://img.shields.io/badge/💻%20VIEW%20IMPLEMENTATION-111827?style=for-the-badge&logo=github"/>
+---
+
+# 📚 Book Store
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+
+</div>
+
+A book-focused application designed around product discovery, browsing and a modern shopping experience.
+
+### Focus Areas
+
+`Books`
+
+`Product UI`
+
+`Search`
+
+`Categories`
+
+`Product Details`
+
+`Responsive Design`
+
+`Shopping Experience`
+
+`Database Integration`
+
+---
+
+# 🏠 Real Estate Platform
+
+<div align="center">
+
+<a href="https://baghpatrealestate.com/">
+<img src="https://img.shields.io/badge/🏠%20LIVE%20PROJECT-06B6D4?style=for-the-badge"/>
 </a>
 
-</td>
+</div>
 
-<td width="60%">
+A real-estate information platform focused on property discovery and presentation.
 
-## 🔐 Enterprise Authentication & RBAC
+### Focus Areas
 
-### Secure Access Architecture
+`Property Listings`
 
-A permission-driven authorization architecture for controlling access across enterprise applications.
+`Search`
 
-**Access Model**
+`Responsive Design`
 
-`User → Authentication → Role → Department → Permission → Resource`
+`Information Architecture`
 
-**Includes**
-
-* 🔑 Authentication
-* 🛡️ Role-based authorization
-* 👥 User management
-* 🔒 Protected frontend routes
-* 🧩 Permission-based access
-* 🏢 Department-level access
-* 👨‍💼 Admin controls
-* 🎫 Token-based sessions
-
-</td>
-
-</tr>
-</table>
+`Real Estate UX`
 
 ---
 
-# 🧰 Technology Stack
+# 🎨 Portfolio Projects
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,js,ts" />
-
-<br/><br/>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
-
-<br/><br/>
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github,postman" />
+### Multiple portfolio iterations focused on frontend creativity
 
 </div>
 
 ---
 
-# ⚡ What I Build
+## 🌐 Portfolio — Version 3
+
+My latest portfolio iteration focused on modern developer branding, responsive design, interactive sections and animated UI.
 
 <div align="center">
 
-<table>
+<a href="https://azeebcoder.github.io/Sumit-portfolio/">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PORTFOLIO-7C3AED?style=for-the-badge"/>
+</a>
 
-<tr>
+</div>
 
-<td align="center" width="25%">
+### Focus
 
-### 🎨 Frontend
+`Interactive UI`
 
-React
-Next.js
-Tailwind
-Redux
-Responsive UI
-Dashboards
+`Animations`
 
-</td>
+`Responsive Design`
 
-<td align="center" width="25%">
+`Developer Branding`
 
-### ⚙️ Backend
+`Project Showcase`
 
-Node.js
-Express
-REST APIs
-Socket.IO
-Authentication
-RBAC
+`Modern UX`
 
-</td>
+---
 
-<td align="center" width="25%">
+# 🧩 Interactive Applications
 
-### 🗄️ Data
+<div align="center">
 
-MongoDB
-Redis
-Aggregation
-Caching
-Data Processing
-Analytics
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀 Infrastructure
-
-Linux
-Nginx
-PM2
-Git
-Docker
-Deployment
-
-</td>
-
-</tr>
-
-</table>
+| Project                   |     Category    |                         Live                         |
+| :------------------------ | :-------------: | :--------------------------------------------------: |
+| 🧩 **Sudoku Solver**      |  Puzzle / Logic |       [Open](https://sumyysudoku.netlify.app/)       |
+| 🧮 **Quiz Web App**       | Interactive App |    [Open](https://sumit-quiz-simple.netlify.app/)    |
+| 💱 **Currency Converter** |     Utility     |      [Open](https://sumyycurrency.netlify.app/)      |
+| 🎮 **Tic Tac Toe**        |   Browser Game  |   [Open](https://azeebcoder.github.io/Tic-Tac-Toe/)  |
+| ➗ **Calculator**          |     Utility     | [Open](https://sumit-simple-calculator.netlify.app/) |
 
 </div>
 
 ---
 
-# 🧠 Engineering Approach
+# 🧠 Problem Solving
 
 <div align="center">
 
-### `Problem → Design → Build → Test → Deploy → Improve`
+### `PROBLEM → THINK → DESIGN → CODE → TEST → SOLVE`
 
-<br/>
+</div>
 
-<table>
+My programming foundation in **C and C++** helped build my understanding of:
 
-<tr>
+* 🧠 Logical problem solving
+* 📚 Data Structures
+* 🔢 Algorithms
+* 🔄 Control flow
+* 🧩 Object-oriented concepts
+* 💾 Memory concepts
+* ⚡ Algorithmic thinking
+* 🐛 Debugging
 
-<td align="center">
+These fundamentals continue to influence how I approach application development today.
 
-### 01
+---
 
-**Understand**
+# 🏗️ Engineering Approach
 
-Understand the actual business problem before writing code.
+<div align="center">
 
-</td>
-
-<td align="center">
-
-### 02
-
-**Design**
-
-Create an architecture that can evolve with the product.
-
-</td>
-
-<td align="center">
-
-### 03
-
-**Build**
-
-Develop reusable components, APIs and services.
-
-</td>
-
-<td align="center">
-
-### 04
-
-**Improve**
-
-Measure performance, fix bottlenecks and continuously improve.
-
-</td>
-
-</tr>
-
-</table>
+```text
+                ┌──────────────────┐
+                │      PROBLEM     │
+                └────────┬─────────┘
+                         ↓
+                ┌──────────────────┐
+                │    UNDERSTAND    │
+                └────────┬─────────┘
+                         ↓
+                ┌──────────────────┐
+                │      DESIGN      │
+                └────────┬─────────┘
+                         ↓
+                ┌──────────────────┐
+                │      BUILD      │
+                └────────┬─────────┘
+                         ↓
+                ┌──────────────────┐
+                │      TEST       │
+                └────────┬─────────┘
+                         ↓
+                ┌──────────────────┐
+                │     DEPLOY      │
+                └────────┬─────────┘
+                         ↓
+                ┌──────────────────┐
+                │     IMPROVE     │
+                └──────────────────┘
+```
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+# 📈 GitHub Dashboard
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Azeebcoder&show_icons=true&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=7C3AED&text_color=CBD5E1&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azeebcoder&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=CBD5E1" height="180"/>
+
 <br/><br/>
 
-<img
-width="70%"
-src="https://streak-stats.demolab.com?user=Azeebcoder&theme=tokyonight&hide_border=true&border_radius=10"
-alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com?user=Azeebcoder&theme=dark&hide_border=true&background=050816&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" width="72%"/>
 
 </div>
 
@@ -457,11 +736,7 @@ alt="GitHub Streak"
 
 <div align="center">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azeebcoder&theme=tokyonight"
-width="100%"
-alt="GitHub Contribution Overview"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azeebcoder&theme=github_dark" width="100%"/>
 
 </div>
 
@@ -471,17 +746,13 @@ alt="GitHub Contribution Overview"
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-width="100%"
-alt="GitHub Contribution Snake"
-/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🎯 Currently Building
+# 🎯 Currently Exploring
 
 <div align="center">
 
@@ -491,27 +762,41 @@ alt="GitHub Contribution Snake"
 
 <td width="50%" align="center">
 
-### 🚀 Production Engineering
+## 🚀 Building
 
-Production-grade logistics applications
-Warehouse process automation
-Backend architecture
-Authentication & RBAC
-Real-time applications
-Operational dashboards
+Production Applications
+
+Warehouse Technology
+
+Logistics Systems
+
+Backend Architecture
+
+Real-Time Platforms
+
+Enterprise RBAC
+
+Operational Dashboards
 
 </td>
 
 <td width="50%" align="center">
 
-### 🧠 Learning & Exploring
+## 🧠 Learning
 
 System Design
+
 Distributed Systems
-Scalable Backend Architecture
+
 Cloud Infrastructure
-Performance Optimization
-Advanced React Architecture
+
+Scalable Backend Architecture
+
+Performance Engineering
+
+Advanced React
+
+Database Optimization
 
 </td>
 
@@ -523,20 +808,89 @@ Advanced React Architecture
 
 ---
 
-# 🌐 Other Projects
+# 🗺️ My Development Journey
 
 <div align="center">
 
-| Project                     | Description                         |                          Demo                         |
-| :-------------------------- | :---------------------------------- | :---------------------------------------------------: |
-| 🏠 **Real Estate Platform** | Real estate information platform    |         [Live](https://baghpatrealestate.com/)        |
-| 🎬 **Movie Suggestions**    | Mood-based movie recommendation app |          [Live](https://sumovie.netlify.app/)         |
-| 💱 **Currency Converter**   | Currency conversion application     |       [Live](https://sumyycurrency.netlify.app/)      |
-| 🧩 **Sudoku Solver**        | Interactive Sudoku application      |        [Live](https://sumyysudoku.netlify.app/)       |
-| 🧮 **Quiz Web App**         | Interactive quiz application        |     [Live](https://sumit-quiz-simple.netlify.app/)    |
-| 🎮 **Tic Tac Toe**          | Browser-based game                  |   [Live](https://azeebcoder.github.io/Tic-Tac-Toe/)   |
-| ➗ **Calculator**            | Responsive calculator               |  [Live](https://sumit-simple-calculator.netlify.app/) |
-| 🌐 **Portfolio**            | Personal developer portfolio        | [Live](https://azeebcoder.github.io/Sumit-portfolio/) |
+```text
+ C / C++
+    │
+    ▼
+Programming Fundamentals
+    │
+    ▼
+ JavaScript
+    │
+    ├───────────────┐
+    ▼               ▼
+Frontend          Backend
+    │               │
+ React            Node.js
+ Next.js          Express
+ Tailwind         REST APIs
+    │               │
+    └───────┬───────┘
+            ▼
+        MongoDB
+            │
+            ▼
+          Redis
+            │
+            ▼
+       Socket.IO
+            │
+            ▼
+ Authentication
+      + RBAC
+            │
+            ▼
+ Production Systems
+            │
+            ▼
+ Enterprise & Logistics
+ Applications
+```
+
+</div>
+
+---
+
+# 📌 Project Ecosystem
+
+<div align="center">
+
+|     🏢 Enterprise    |   🛒 Products  |     🎨 Creative    |
+| :------------------: | :------------: | :----------------: |
+| Maersk Action Portal | Movie Platform |    Portfolio V3    |
+|   Maersk × Flipkart  |   Book Store   |       Sudoku       |
+|     Warehouse IPP    |   Real Estate  |        Quiz        |
+|     RBAC Systems     |        —       | Currency Converter |
+|   Logistics Systems  |        —       |     Tic Tac Toe    |
+| Productivity Systems |        —       |     Calculator     |
+
+</div>
+
+---
+
+# 🌟 What I Enjoy Building
+
+<div align="center">
+
+### ⚙️ Business Applications
+
+### 📊 Operational Dashboards
+
+### 🔐 Secure Applications
+
+### ⚡ Real-Time Systems
+
+### 🏢 Enterprise Platforms
+
+### 🚚 Logistics Technology
+
+### 🛒 Full-Stack Products
+
+### 🎨 Interactive Interfaces
 
 </div>
 
@@ -546,39 +900,28 @@ Advanced React Architecture
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sumit-bhardwaj-new">
-<img src="https://img.shields.io/badge/LinkedIn-Sumit%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Have an idea? Let's build something useful.
 
- 
-
-<a href="mailto:sumitbhardwajnew@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
- 
+<br/>
 
 <a href="https://github.com/Azeebcoder">
 <img src="https://img.shields.io/badge/GitHub-Azeebcoder-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/sumit-bhardwaj-new">
+<img src="https://img.shields.io/badge/LinkedIn-Sumit%20Bhardwaj-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/>
+<a href="mailto:sumitbhardwajnew@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-0E7490?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<div align="center">
+<br/><br/>
 
-### `Build something useful.`
+`BUILD`   `SHIP`   `IMPROVE`
 
-### `Ship it.`
+<br/><br/>
 
-### `Improve it.`
-
-<br/>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:f7631d,50:1e293b,100:020617&height=140&section=footer&animation=fadeIn"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:06B6D4,45:312E81,75:111827,100:050816&animation=twinkling" width="100%"/>
 
 </div>
