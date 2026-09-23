@@ -538,10 +538,6 @@ Real-estate platform focused on property discovery, listings and responsive pres
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azeebcoder&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=CBD5E1&rank_icon=github" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azeebcoder&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" height="175"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Azeebcoder&theme=dark&hide_border=true&background=020617&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" width="70%"/>
